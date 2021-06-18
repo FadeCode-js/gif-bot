@@ -7,9 +7,9 @@ require('./util/eventHandler.js')(client);
 /////////////////////////////////////////////
 
 client.config = {
-    prefix: "-",
-    token: "ODExNTQ2ODA1NDg1NDM2OTQ4.YCzx3A.Y7yrUI4pw30WMbL_XL5cqXD_tK4",
-    sahip: "510479430917816340"
+    prefix: "PREFIX",
+    token: "TOKEN",
+    sahip: "SAHIP ID"
 }
 
 /////////////////////////////////////////////
